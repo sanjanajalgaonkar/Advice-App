@@ -1,1 +1,1 @@
-Advice applicationd made using advice API and React JS.
+Advice application made using advice API and React JS.
